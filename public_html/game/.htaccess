@@ -1,0 +1,4 @@
+AuthUserFile /home3/jassaabh/public_html/Abhishek_Jassal_a1/.htpasswd
+AuthType Basic
+AuthName "YOUR jassaabh Assignments"
+Require valid-user
